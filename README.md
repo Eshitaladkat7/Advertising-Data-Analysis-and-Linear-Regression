@@ -11,7 +11,3 @@ This project demonstrates the application of linear regression to analyze and pr
 - **Visualization**: Plots the regression line and training data points.
 - **Prediction**: Predicts sales for a given advertising budget.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Eshitaladkat7/advertising-data-analysis.git
